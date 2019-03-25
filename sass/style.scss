@@ -1,0 +1,31 @@
+
+
+body {
+	text-align: center;
+    font-family: 'Montserrat';
+}
+
+a {
+    padding: 10px 20px;
+    margin: 15px;
+    text-decoration: none;
+    background: red;
+    color: white;
+}
+
+.controls {
+	margin-top: 30px;
+}
+
+.stopwatch {
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 50px;	
+}
+
+.results {
+	li {
+		list-style: none;
+		font-size: 24px;
+	}
+}
